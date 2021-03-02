@@ -4,6 +4,8 @@ echo "ok";
 
 echo "changes";
 
-echo "mmmmm";
+echo "test merge";
+
+echo "another";
 
 ?>
